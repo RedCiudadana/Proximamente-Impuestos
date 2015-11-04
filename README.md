@@ -1,2 +1,2 @@
-# proximamente-impuestos
-Proximamente Pagina de Impuestos
+# Próximamente ¿A dónde van mis impuestos?
+Próximamente ¿A dónde van mis impuestos?
